@@ -1,4 +1,1 @@
 git add rishi.txt
-helo
-hiii
-gwww
